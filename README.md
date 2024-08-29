@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Image-Gallery-App
+Image Gallery with Filtering A React.js and Tailwind CSS-based image gallery with dynamic filtering. Browse and filter images effortlessly by category or tag for an intuitive experience.
+>>>>>>> 5bb6881473ed2f890bd46c6140f799635a2927da
